@@ -1,0 +1,15 @@
+p{
+	border: 14px solid yellow;
+	width:250px;
+	height: 200px;
+	font-family: Arial;
+	text-align: center;
+	font-size: 14px;
+	padding-top: 100px;
+
+
+}
+
+.derecha{
+	margin-left: 500px;
+}
